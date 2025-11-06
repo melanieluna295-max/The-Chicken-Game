@@ -1,0 +1,10 @@
+img{
+    width: 1000px;
+    border-radius: 50%;
+}
+
+body{
+    background:pink ;
+    color:beige;
+    font-family:cursive;
+}
